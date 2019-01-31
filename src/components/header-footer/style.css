@@ -22,3 +22,6 @@ body {
     color: #ffffff;
     font-size: 3vh;
 }
+.ovl {
+    text-decoration: overline;
+}

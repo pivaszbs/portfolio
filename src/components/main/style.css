@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 6vh;
+    margin-top: 2vh;
     padding-top: 15vh;
     background-image: url('../../resources/img/ico.png');
     background-size: 12%;
@@ -26,8 +26,13 @@
     letter-spacing: 2vh;
 }
 .workplace {
-    margin-right: 2vw;
+    margin-right: 4vw;
     font-size: 4vh;
     font-weight: 300;
     letter-spacing: 4px;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
